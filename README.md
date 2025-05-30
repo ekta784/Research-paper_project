@@ -1,6 +1,9 @@
 **Soil Quality and Nutrient Recommendation System Using Modified Multilayer Perceptron (MLP)**
 *Advancing Precision Agriculture through Deep Learning*
 
+**🎓 Research & Publications**
+I’m proud to share that my this research paper titled Soil Quality and Nutrient Recommendation System Using Modified Multilayer Perceptron (MLP) was accepted at the ICIVC 2025 conference and published after presentation in ed Springer Book Series "Lecture Notes in Networks and Systems", reflecting contributions to the field of intelligent vision and computing.
+
 **Overview:**
 This project presents an intelligent, data-driven soil evaluation system that leverages a modified Multilayer Perceptron (MLP) model to classify soil quality and recommend essential nutrients. It addresses the challenges of traditional lab-based soil testing by providing a scalable, cost-effective, and real-time solution for sustainable farming practices.
 
